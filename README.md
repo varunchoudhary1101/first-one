@@ -1,3 +1,3 @@
 # first-one
 its my first repo
-author - varun choudhary
+author - varun choudhary(jat)
